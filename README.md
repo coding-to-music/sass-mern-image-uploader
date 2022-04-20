@@ -207,7 +207,6 @@ git push -u origin main
 
 ```java
 heroku create sass-mern-image-uploader
-
 ```
 
 ## Heroku MongoDB Environment Variables
